@@ -31,6 +31,13 @@
 30. Used command "git add ."
 31. Used command "git commit -m "Created a file in the feature 1 branch"
 32. Used command "git push"
+33. Used command "git push --set-upstream origin feature1"
+34. git fetch origin
+35. git merge origin/main
+36. git add FEATURE1.md
+37. git commit -m "merge: keep FEATURE1.md from fe
+ature branch"
+38. git push
 
 
 
