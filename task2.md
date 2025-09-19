@@ -26,6 +26,11 @@
 25. Used command "git add."
 26. Used command "git commit -m "Made edits to readme"
 27. Used command "git push"
+28. Used command "git checkout -b feature1"
+29. Used command "touch FEATURE.md"
+30. Used command "git add ."
+31. Used command "git commit -m "Created a file in the feature 1 branch"
+32. Used command "git push"
 
 
 
