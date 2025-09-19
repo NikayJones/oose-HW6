@@ -18,6 +18,14 @@
 17. Used command "git commit -m "Updated README.md"
 18. Used command "git push"
 19. Used command "git pull" 
+20. Used "git config pull.rebase false" to merge the remote and local repository
+21. Used "git pull:
+22. Used "git commit -m ""This merge will resolve the issues between the remote and local repository"
+23. Used "git push"
+24. Edited README file
+25. Used command "git add."
+26. Used command "git commit -m "Made edits to readme"
+27. Used command "git push"
 
 
 
