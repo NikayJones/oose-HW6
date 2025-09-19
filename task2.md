@@ -13,4 +13,20 @@
 13. Used command git commit -m "Pushing local
  repository to remote GitHub repository"
 14. Used  command "git push --set-upstream origin main" to push 
+15. Updated README.md and saved
+16. Used command "git add ."
+17. Used command "git commit -m "Updated README.md"
+18. Used command "git push"
+19. Used command "git pull" 
+
+
+
+
+
+
+
 15. Used command "git pull" 
+16. Updated README.md and saved
+17. Used command "git add ."
+18. Used command "git commit -m "Updated README.md"
+19. Used command "git push"
